@@ -1,4 +1,4 @@
-Code of Style
+Code Style
 ==================================
 
 Table of Contents
